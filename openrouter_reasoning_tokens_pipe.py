@@ -43,7 +43,7 @@ class Pipe:
             "deepseek/deepseek-r1-distill-llama-70b",
             "deepseek/deepseek-r1",
             "deepseek/deepseek-r1:free",
-            "anthropic/claude-3.7-sonnet"
+            "anthropic/claude-3.7-sonnet:thinking",
         ]
 
         return [
